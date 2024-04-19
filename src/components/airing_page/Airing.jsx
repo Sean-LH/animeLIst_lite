@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import {useState, useEffect} from 'react' //React was removed from this line
 import axios from 'axios';
 import Items_A from './Items_A';
 
